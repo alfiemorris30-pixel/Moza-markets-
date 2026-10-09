@@ -1,0 +1,4 @@
+Repository access check for replacement task MOZA WEEK AHEAD
+utc: 2026-10-09T15:01:05Z
+branch: write-test/replacement-ahead-20261009-150104
+Not a production file. Safe to delete.
