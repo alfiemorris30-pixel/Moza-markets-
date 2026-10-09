@@ -1,0 +1,5 @@
+MOZA write test
+session: interactive cloud session (this chat)
+utc: 2026-10-09T13:51:01Z
+branch: write-test/session-20261009-135100
+Not a production file. Safe to delete.
