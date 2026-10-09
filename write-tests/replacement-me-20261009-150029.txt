@@ -1,0 +1,4 @@
+Repository access check for replacement task MOZA GOOD MORNING MIDDLE EAST MARKET
+utc: 2026-10-09T15:00:30Z
+branch: write-test/replacement-me-20261009-150029
+Not a production file. Safe to delete.
