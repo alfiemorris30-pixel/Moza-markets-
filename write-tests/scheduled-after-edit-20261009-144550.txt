@@ -1,0 +1,4 @@
+MOZA write test from a scheduled session after a prompt edit
+utc: 2026-10-09T14:45:51Z
+branch: write-test/scheduled-after-edit-20261009-144550
+Not a production file. Safe to delete.
