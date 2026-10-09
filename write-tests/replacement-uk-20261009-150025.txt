@@ -1,0 +1,4 @@
+Repository access check for replacement task MOZA GOOD MORNING UK
+utc: 2026-10-09T15:00:25Z
+branch: write-test/replacement-uk-20261009-150025
+Not a production file. Safe to delete.
