@@ -1,0 +1,4 @@
+Repository access check for replacement task MOZA WEEKLY RECAP
+utc: 2026-10-09T15:00:43Z
+branch: write-test/replacement-recap-20261009-150043
+Not a production file. Safe to delete.
